@@ -32,7 +32,7 @@ android {
     buildToolsVersion '22.0.0'
 
     defaultConfig {
-	applicationId "com.google.vrtoolkit.cardboard.samples.treasurehunt"
+	applicationId "com.ccc.vrtoolkit.cardboard.samples.treasurehunt"
         minSdkVersion 16
         targetSdkVersion 19
         versionCode Integer.parseInt(buildTime())
